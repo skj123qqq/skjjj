@@ -1,0 +1,6 @@
+owner=280319019528093696
+prefix=af
+game=SkJ&Faisal [afplay]
+stayinchannel=true
+songinstatus=false
+token=NjAwNzIzMjA3Mjc1OTM3ODI2.XS35HQ.Lt8EkDukOhnpbE9JXTPEt7KdQ-w
